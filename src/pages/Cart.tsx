@@ -147,6 +147,7 @@ const Container = styled.div`
     padding-left: 8px;
     min-width: 260px;
     font-weight: 600;
+    margin-right: 120px;
   }
 
   .total-price {
